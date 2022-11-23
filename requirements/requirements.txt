@@ -1,0 +1,8 @@
+ib_insync
+loguru
+pandas
+numpy
+pydantic
+python-dotenv
+pytz
+requests
